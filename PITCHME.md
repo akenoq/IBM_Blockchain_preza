@@ -19,16 +19,19 @@ An application architecture for React
 
 ---
 
-# Актуальность и цели
+### Актуальность
 
 +++
 
-# Архитектура решения
+### Решение
 
 +++
 
 - Hyperledger
-- 
+- NodeJS
+- Webpack
+- JavaScript
+- jQuery
 
 +++?image=http://blender3d.org.ua/forum/contest/iwe/upload/TetrisGonki.jpg&size=cover
 
