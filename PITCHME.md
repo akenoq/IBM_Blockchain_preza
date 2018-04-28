@@ -6,7 +6,7 @@ BlockChain Doctor
 
 ### BCDoc
 
-- Команда: МГТУ им.Баумана, shark_team
+- Команда: МГТУ им.Баумана, **shark_team**
 - Ссылка нa проект: <br> http://medics-client.herokuapp.com/
 
 +++
@@ -52,4 +52,4 @@ BlockChain Doctor
 
 +++
 
-#### Спасибо за внимание
+### Спасибо за внимание
