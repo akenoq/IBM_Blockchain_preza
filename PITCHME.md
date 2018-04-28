@@ -7,8 +7,7 @@ An application architecture for React
 ### BCDoc
 
 - Команда: МГТУ им.Баумана, shark_team
-- Ссылка нa проект: https://url.ru
-- GitHub: https://github.com/user/repo
+- Ссылка нa проект: http://medics-client.herokuapp.com/
 
 +++
 
