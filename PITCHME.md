@@ -15,7 +15,7 @@ An application architecture for React
 - Кирьяненко Александр
 - Куклина Нина
 - Прохорова Злата
-- Ментор - **Попов А.Ю.**
+- Консультант - **Попов А.Ю.**
 
 ---
 
@@ -35,13 +35,13 @@ An application architecture for React
 
 +++
 
-- Hyperledger
+- **Hyperledger**
 - NodeJS
 - Webpack
 - JavaScript
 - jQuery
 
-+++?image=http://blender3d.org.ua/forum/contest/iwe/upload/TetrisGonki.jpg&size=cover
++++?image=https://pp.userapi.com/c834101/v834101365/122a78/nCC5Bm5fgVI.jpg
 
 +++
 
@@ -50,14 +50,4 @@ An application architecture for React
 - Web-приложение
 - Android-приложение
 
-+++
-
-![](src/web.gif)
-
-+++
-
-![](src/android.gif)
-
-+++
-
-# Спасибо за внимание
+#### Спасибо за внимание
