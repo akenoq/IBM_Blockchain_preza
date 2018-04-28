@@ -1,13 +1,13 @@
 # BCDoc 
 
-An application architecture for React
+BlockChain Doctor
 
----
++++
 
 ### BCDoc
 
 - Команда: МГТУ им.Баумана, shark_team
-- Ссылка нa проект: http://medics-client.herokuapp.com/
+- Ссылка нa проект: <br> http://medics-client.herokuapp.com/
 
 +++
 
@@ -47,7 +47,13 @@ An application architecture for React
 
 ### Приложения
 
-- Web-приложение
+- Web-приложение <br> http://medics-client.herokuapp.com/
 - Android-приложение
+
++++
+
+### Демонстрация
+
++++
 
 #### Спасибо за внимание
